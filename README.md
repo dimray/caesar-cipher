@@ -1,3 +1,3 @@
 # caesar-cipher
 
-The Odin Project Ruby project
+The Odin Project - Ruby project
